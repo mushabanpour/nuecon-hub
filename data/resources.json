@@ -1,0 +1,265 @@
+{
+  "resources": [
+    {
+      "category": "Home · Plan your PhD",
+      "group": "Plan & progress",
+      "title": "Official program guidelines",
+      "desc": "University guidance on coursework, exams, proposals and completion.",
+      "url": "https://cssh.northeastern.edu/economics/program/phd-in-applied-economics/phd-program-guidelines/",
+      "keywords": "requirements policy policies milestones dissertation defense qualifying comprehensive exams",
+      "route": "home-plan"
+    },
+    {
+      "category": "Home · Plan your PhD",
+      "group": "Plan & progress",
+      "title": "PhD timeline & student advice",
+      "desc": "Program planning, advising and dissertation preparation.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/phd-timeline",
+      "keywords": "mentor milestones advising dissertation proposal graduate graduation timeline",
+      "route": "home-plan"
+    },
+    {
+      "category": "Research & Resources · Coursework",
+      "group": "Coursework & preparation",
+      "title": "Math camp",
+      "desc": "Topics, preparation and background reading from the existing wiki.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/math-camp",
+      "keywords": "math mathematics optimization calculus linear algebra first year new student",
+      "route": "coursework"
+    },
+    {
+      "category": "Research & Resources · Coursework",
+      "group": "Coursework & preparation",
+      "title": "Courses & electives",
+      "desc": "Student experience with courses beyond the department.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/courses-to-consider",
+      "keywords": "coursework class classes statistics machine learning finance",
+      "route": "coursework"
+    },
+    {
+      "category": "Research & Resources · Coursework",
+      "group": "Coursework & preparation",
+      "title": "Exam-resource links",
+      "desc": "Find the existing qualifying-exam resource link in the wiki.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/useful-links-covid-exams-data",
+      "keywords": "exam exams qualifying comps comprehensive field",
+      "route": "coursework"
+    },
+    {
+      "category": "Research & Resources",
+      "group": "Your research toolkit",
+      "title": "Research software & writing tools",
+      "desc": "Python, R, Stata, MATLAB, LaTeX and drawing tools.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/research-tools",
+      "keywords": "code coding software overleaf latex tikz programming cheatsheets data analysis",
+      "route": "research"
+    },
+    {
+      "category": "Research & Resources",
+      "group": "Your research toolkit",
+      "title": "Data & resource links",
+      "desc": "Data links collected on the existing resources page.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/useful-links-covid-exams-data",
+      "keywords": "datasets census geography economic geographies",
+      "route": "research"
+    },
+    {
+      "category": "Research & Resources",
+      "group": "Seminars & conversations",
+      "title": "Department research seminars",
+      "desc": "Open the official department page for seminar information.",
+      "url": "https://cssh.northeastern.edu/economics/events/research-seminars/",
+      "keywords": "seminar schedule speaker calendar events",
+      "route": "research"
+    },
+    {
+      "category": "Research & Resources",
+      "group": "Seminars & conversations",
+      "title": "Seminar resources",
+      "desc": "The wiki’s links to economics seminars and department events.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/seminars",
+      "keywords": "seminar online talks aea",
+      "route": "research"
+    },
+    {
+      "category": "Research & Resources",
+      "group": "Seminars & conversations",
+      "title": "Dissertation workshop guidance",
+      "desc": "Read the workshop and research-advising sections of the timeline.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/phd-timeline",
+      "keywords": "workshops io labor labour presentation research talk",
+      "route": "research"
+    },
+    {
+      "category": "Teaching & Funding",
+      "group": "Assistantships & teaching",
+      "title": "TA & RA guidance",
+      "desc": "Existing guidance on assistantship assignments and workload.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/teaching-assistantships",
+      "keywords": "teaching assistantships research assistantships sga stipend recitation assignments funding",
+      "route": "teaching"
+    },
+    {
+      "category": "Teaching & Funding",
+      "group": "Work during the PhD",
+      "title": "Summer work & internships",
+      "desc": "Historical examples of summer teaching, research and internships.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/summer-employment",
+      "keywords": "summer funding employment consulting internship internships ra teaching",
+      "route": "teaching"
+    },
+    {
+      "category": "Teaching & Funding",
+      "group": "Work during the PhD",
+      "title": "Academic-year employment",
+      "desc": "Existing student guidance and examples of additional work.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/academic-year-employment",
+      "keywords": "adjunct freelance overload paid employment work funding",
+      "route": "teaching"
+    },
+    {
+      "category": "Teaching & Funding",
+      "group": "Assistantships & teaching",
+      "title": "Student work experiences",
+      "desc": "Examples of research and teaching work from the wiki.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/jobswork",
+      "keywords": "funding ra research assistant teaching experience work before graduate",
+      "route": "teaching"
+    },
+    {
+      "category": "Careers",
+      "group": "Prepare for the market",
+      "title": "Economics job-market guide",
+      "desc": "Application materials, preparation and advice for the PhD market.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/going-on-the-phd-job-market",
+      "keywords": "academic market jobs cv resume letters interviews job talk paper applications materials",
+      "route": "careers"
+    },
+    {
+      "category": "Careers",
+      "group": "Prepare for the market",
+      "title": "AEA JOE network",
+      "desc": "The American Economic Association’s job-market resource.",
+      "url": "https://www.aeaweb.org/joe/",
+      "keywords": "job jobs listings openings market applications joe economics",
+      "route": "careers"
+    },
+    {
+      "category": "Careers",
+      "group": "Explore career paths",
+      "title": "Consulting & other career paths",
+      "desc": "Student advice on academic, consulting and other opportunities.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/jobswork",
+      "keywords": "economic consulting industry private sector government policy careers work jobs",
+      "route": "careers"
+    },
+    {
+      "category": "Careers",
+      "group": "Explore career paths",
+      "title": "Alumni current positions",
+      "desc": "Search {alumni_count} alumni, with current roles, individual sources and verification dates.",
+      "url": "#placements",
+      "keywords": "network networking alumni graduates placements employers current positions",
+      "route": "careers"
+    },
+    {
+      "category": "Community & Help",
+      "group": "Support & connection",
+      "title": "Student support resources",
+      "desc": "Links to university support, counseling and the PhD Network.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/phd-student-help-and-resources",
+      "keywords": "help support mental health wellbeing well-being counseling we care phd network ombuds",
+      "route": "community"
+    },
+    {
+      "category": "Community & Help",
+      "group": "Keep the wiki useful",
+      "title": "Wiki contributors",
+      "desc": "The people who have helped maintain and improve this resource.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/the-team",
+      "keywords": "people contributors editors contribute access community",
+      "route": "community"
+    },
+    {
+      "category": "Community & Help",
+      "group": "Keep the wiki useful",
+      "title": "Suggestions & improvements",
+      "desc": "Open the existing wiki page to suggest a change or a useful resource.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/commentssuggestions",
+      "keywords": "feedback comment comments update suggest suggestions broken link help",
+      "route": "community"
+    }
+  ],
+  "archive": [
+    {
+      "category": "Archive",
+      "title": "Historical department placements",
+      "desc": "A record of placements, retained as history; it does not establish current employment.",
+      "url": "https://cssh.northeastern.edu/economics/phd-placements/",
+      "keywords": "past initial placement alumni graduates"
+    },
+    {
+      "category": "Archive",
+      "title": "2024–2025 job-market cycle",
+      "desc": "Earlier meetings, recordings and dated announcements.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/2024-2025-phd-job-market",
+      "keywords": "past job market 2024 2025 recordings meetings"
+    },
+    {
+      "category": "Archive",
+      "title": "Graduation photos & program memories",
+      "desc": "The graduation photographs on the existing homepage.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/home",
+      "keywords": "hooding photos graduation graduate community history 2019 2023 2024"
+    },
+    {
+      "category": "Archive",
+      "title": "Historical Covid & teaching links",
+      "desc": "Previous pandemic and NUFlex material; retained as history.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/useful-links-covid-exams-data",
+      "keywords": "archive old covid nuflex pandemic history"
+    },
+    {
+      "category": "Archive",
+      "title": "The lighter side",
+      "desc": "Economics humor and community reading.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/the-lighter-side",
+      "keywords": "humor lighter fun comics"
+    },
+    {
+      "category": "Archive",
+      "title": "Twitter & More",
+      "desc": "The original social-media note, outside the primary menu.",
+      "url": "https://sites.google.com/site/nueconphdstudentwiki/twitter-more",
+      "keywords": "twitter x social media"
+    }
+  ],
+  "groupNotes": {
+    "Plan & progress": "Keep formal requirements and student advice easy to distinguish.",
+    "Coursework & preparation": "Useful starting points for coursework and exam preparation.",
+    "Your research toolkit": "Practical tools for coding, writing and working with data.",
+    "Seminars & conversations": "Find the places where research is presented and discussed.",
+    "Assistantships & teaching": "Start with the program’s guidance on university assignments.",
+    "Work during the PhD": "Bring summer and academic-year opportunities together.",
+    "Prepare for the market": "Find preparation resources and the economics job network.",
+    "Explore career paths": "Academic careers, consulting, industry and alumni experience.",
+    "Support & connection": "Make support easy to find at every stage of the PhD.",
+    "Keep the wiki useful": "A community resource works best when everyone can help."
+  },
+  "searchExtras": [
+    {
+      "category": "Research & Resources · Computing",
+      "title": "Discovery cluster & Open OnDemand",
+      "desc": "Free HPC for students; request access with your advisor as sponsor.",
+      "url": "https://rc.northeastern.edu/open-ondemand-ood/",
+      "keywords": "hpc cluster computing jupyter gpu discovery explorer ood"
+    },
+    {
+      "category": "Research & Resources · LaTeX",
+      "title": "LaTeX slide and paper templates",
+      "desc": "Beamer and article templates with compiled previews.",
+      "url": "#research",
+      "keywords": "latex beamer slides paper template overleaf tex"
+    }
+  ]
+}

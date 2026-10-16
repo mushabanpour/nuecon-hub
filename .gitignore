@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+latex/**/*.aux
+latex/**/*.log
+latex/**/*.nav
+latex/**/*.out
+latex/**/*.snm
+latex/**/*.toc
+latex/**/*.pdf

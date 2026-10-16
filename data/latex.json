@@ -1,0 +1,33 @@
+{
+  "slides": {
+    "label": "Beamer slides",
+    "file": "slides_template.tex",
+    "desc": "Built from your conference-slide preamble: Singapore theme with section navigation, the custom footer (short title · author · logo + slide count), wideitemize/stepitemize and tablefootnotes. Put NULogo.png in the folder to show the logo.",
+    "source": "latex/slides/slides_template.tex",
+    "source_sha256": "438a52c57b9a592bd548a9722b8838446586a9758353be533a906b7a8e4c6519",
+    "pages": [
+      "latex/slides/page-01.jpg",
+      "latex/slides/page-02.jpg",
+      "latex/slides/page-03.jpg",
+      "latex/slides/page-04.jpg",
+      "latex/slides/page-05.jpg",
+      "latex/slides/page-06.jpg",
+      "latex/slides/page-07.jpg",
+      "latex/slides/page-08.jpg",
+      "latex/slides/page-09.jpg",
+      "latex/slides/page-10.jpg",
+      "latex/slides/page-11.jpg"
+    ]
+  },
+  "paper": {
+    "label": "Working paper",
+    "file": "paper_template.tex",
+    "desc": "12pt article with Palatino (mathpazo), 1.5 spacing, abstract with JEL codes, a booktabs regression table, a pgfplots figure and natbib author–year citations.",
+    "source": "latex/paper/paper_template.tex",
+    "source_sha256": "4ed3d137d3f4bc369ec7c5ddd4f0c8c14ed39d35942a8ccce5f7da91f670e2d6",
+    "pages": [
+      "latex/paper/page-01.jpg",
+      "latex/paper/page-02.jpg"
+    ]
+  }
+}
